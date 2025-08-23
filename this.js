@@ -35,14 +35,14 @@ const user = {
 
 user.greet();*/
 
-const user = {
-  name: "Ali",
-  greet: () => {
-    console.log("Hello " + user.name);
-  }
-};
+// const user = {
+//   name: "Ali",
+//   greet: () => {
+//     console.log("Hello " + user.name);
+//   }
+// };
 
-user.greet("Ali");
+// user.greet("Ali");
 
 
 const user = {
